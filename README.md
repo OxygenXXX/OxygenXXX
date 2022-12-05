@@ -1,4 +1,6 @@
 
-### Skills:
-- Node.js Express framework
-- C++ GLFW library 
+# Hi everyone!
+
+## ☎ How to reach me:
+
+## 🛠 Languages & Frameworks:
